@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+“I want to know how this works and I am not afraid to fail a 1,000 times to figure it out”
 <!--
 **swami-dev/swami-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
